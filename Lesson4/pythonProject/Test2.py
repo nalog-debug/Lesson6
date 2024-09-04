@@ -1,1 +1,2 @@
 print('haya')
+print('vaya')
